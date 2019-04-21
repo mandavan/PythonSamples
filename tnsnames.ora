@@ -1,0 +1,11 @@
+AWSRDSNKMDB=
+  (DESCRIPTION=
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=myfirsttestdb.cy4rjsglrxjt.us-east-2.rds.amazonaws.com)
+      (PORT=1521)
+    )
+    (CONNECT_DATA=
+      (SERVICE_NAME=NKMDB)
+    )
+  )
